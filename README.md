@@ -1,1 +1,2 @@
-# Newton-s-Cradle
+# Newton's Cradle
+By:- Pranjali Joshi
